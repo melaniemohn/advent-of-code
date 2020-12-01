@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code",
+  "dependencies": {},
+  "scripts": {
+    "format": "prettier --write \"**/*.+(js|jsx|json|md)\""
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
